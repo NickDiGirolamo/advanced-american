@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/favicon.ico/route": "/favicon.ico",
+  "/about/companies/page": "/about/companies",
+  "/about/independent-agent/page": "/about/independent-agent",
+  "/about/page": "/about",
+  "/about/staff/page": "/about/staff",
+  "/blog/page": "/blog",
+  "/business-insurance/page": "/business-insurance",
+  "/claims/page": "/claims",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/payments/page": "/payments",
+  "/personal-insurance/page": "/personal-insurance",
+  "/quotes/page": "/quotes",
+  "/referrals/page": "/referrals",
+  "/service-center/page": "/service-center",
+  "/blog/[slug]/page": "/blog/[slug]",
+  "/business-insurance/[slug]/page": "/business-insurance/[slug]",
+  "/personal-insurance/[slug]/page": "/personal-insurance/[slug]",
+  "/service-center/[requestType]/page": "/service-center/[requestType]"
+}

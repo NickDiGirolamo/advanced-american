@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/business-insurance/layout,_N_T_/business-insurance/[slug]/layout,_N_T_/business-insurance/[slug]/page,_N_T_/business-insurance/general-business"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/business-insurance/$d$slug/__PAGE__",
+    "/business-insurance/$d$slug",
+    "/business-insurance",
+    "/_index",
+    "/_head"
+  ]
+}

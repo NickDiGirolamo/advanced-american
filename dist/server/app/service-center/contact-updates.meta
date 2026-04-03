@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/service-center/layout,_N_T_/service-center/[requestType]/layout,_N_T_/service-center/[requestType]/page,_N_T_/service-center/contact-updates"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/service-center/$d$requestType/__PAGE__",
+    "/service-center/$d$requestType",
+    "/service-center",
+    "/_index",
+    "/_head"
+  ]
+}

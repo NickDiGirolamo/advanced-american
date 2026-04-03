@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/personal-insurance/layout,_N_T_/personal-insurance/[slug]/layout,_N_T_/personal-insurance/[slug]/page,_N_T_/personal-insurance/motorcycle"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/personal-insurance/$d$slug/__PAGE__",
+    "/personal-insurance/$d$slug",
+    "/personal-insurance",
+    "/_index",
+    "/_head"
+  ]
+}

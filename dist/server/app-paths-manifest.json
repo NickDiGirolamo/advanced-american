@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/about/companies/page": "app/about/companies/page.js",
+  "/about/independent-agent/page": "app/about/independent-agent/page.js",
+  "/about/page": "app/about/page.js",
+  "/about/staff/page": "app/about/staff/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/business-insurance/page": "app/business-insurance/page.js",
+  "/claims/page": "app/claims/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/page": "app/page.js",
+  "/payments/page": "app/payments/page.js",
+  "/personal-insurance/page": "app/personal-insurance/page.js",
+  "/quotes/page": "app/quotes/page.js",
+  "/referrals/page": "app/referrals/page.js",
+  "/service-center/page": "app/service-center/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/business-insurance/[slug]/page": "app/business-insurance/[slug]/page.js",
+  "/personal-insurance/[slug]/page": "app/personal-insurance/[slug]/page.js",
+  "/service-center/[requestType]/page": "app/service-center/[requestType]/page.js"
+}
